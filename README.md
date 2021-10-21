@@ -10,6 +10,7 @@ Using the Data set that was given, in this repo. i tried to create a pipeline to
 
 
 What is the best model? 
-
+the Logistic Regression is the best model 
 
 How does it perform on the test set?
+it has higher accuracy percentage 
